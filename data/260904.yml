@@ -7,7 +7,7 @@ about:
   head: 85aae2f
   archived: false
   latestVersion: v0.2.77
-  collectedAt: 2026-09-04T19:22:28Z
+  collectedAt: 2026-09-04T21:12:19Z
 timeline:
   created: 2018-03-05
   lastCommit: 2025-11-20
@@ -82,6 +82,74 @@ total:
   openIssue: 29
   commit: 923
 ---
+path: /home/runner/.x-repo/github.com/timvisee/ffsend
+collectedAt: 2026-09-04T21:12:20Z
+loc:
+  Rust:
+    code: 4606
+    comments: 477
+    blanks: 886
+    files: 66
+  Bash:
+    code: 2536
+    comments: 45
+    blanks: 73
+    files: 7
+  Json:
+    code: 1211
+    comments: 0
+    blanks: 0
+    files: 2
+  PowerShell:
+    code: 510
+    comments: 0
+    blanks: 5
+    files: 1
+  Elvish:
+    code: 492
+    comments: 0
+    blanks: 1
+    files: 1
+  Fish:
+    code: 238
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 101
+    comments: 14
+    blanks: 20
+    files: 1
+  Yaml:
+    code: 73
+    comments: 24
+    blanks: 17
+    files: 2
+  Dockerfile:
+    code: 5
+    comments: 0
+    blanks: 2
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 648
+    blanks: 178
+    files: 5
+  Text:
+    code: 0
+    comments: 559
+    blanks: 124
+    files: 2
+total:
+  code: 9858
+  comments: 2403
+  blanks: 1411
+  files: 90
 ---
 date: "2026-08-24"
 repo:
