@@ -30,9 +30,9 @@ x install ffsend
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Code-Review** (2/10) — Found 6/24 approved changesets -- score normalized to 2
+- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install ffsend
 
 ## 流行度
 
-- **Star**: 7,423 · **Fork**: 206 · **开放 issue**: 95 · **贡献者**: 28
+- **Star**: 7,424 · **Fork**: 206 · **开放 issue**: 95 · **贡献者**: 28
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install ffsend
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last720d | 2024-11-01 | 1 | 2 | 1 | 3 | 2 | 16 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last720d | 2024-11-02 | 1 | 2 | 1 | 3 | 2 | 16 |
 
 ## Release 资产
 
@@ -71,6 +71,17 @@ x install ffsend
 |------|-----:|----------|
 | [ffsend-v0.2.77-linux-x64](https://github.com/timvisee/ffsend/releases/download/v0.2.77/ffsend-v0.2.77-linux-x64) | 11.2 MiB | `other` |
 | [ffsend-v0.2.77-linux-x64-static](https://github.com/timvisee/ffsend/releases/download/v0.2.77/ffsend-v0.2.77-linux-x64-static) | 16.1 MiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/ffsend) 上共有 **30** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.2.77` | ✅ latest |
+| Nix unstable | `0.2.77` | ✅ latest |
+| Void | `0.2.77` | ✅ latest |
+| Alpine edge | `0.2.76` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -81,4 +92,4 @@ ffsend 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:17:55Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:31:18Z._
