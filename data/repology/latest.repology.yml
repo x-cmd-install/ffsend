@@ -1,0 +1,397 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: ffsend
+  binname: ffsend
+  visiblename: ffsend
+  version: 0.2.76
+  origversion: 0.2.76-r4
+  status: outdated
+  summary: A fully featured Firefox Send client
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - GPL-3.0-only
+- repo: alpine_edge
+  subrepo: testing
+  srcname: ffsend
+  binname: ffsend-bash-completion
+  visiblename: ffsend-bash-completion
+  version: 0.2.76
+  origversion: 0.2.76-r4
+  status: outdated
+  summary: Bash completions for ffsend
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - GPL-3.0-only
+- repo: alpine_edge
+  subrepo: testing
+  srcname: ffsend
+  binname: ffsend-fish-completion
+  visiblename: ffsend-fish-completion
+  version: 0.2.76
+  origversion: 0.2.76-r4
+  status: outdated
+  summary: Fish completions for ffsend
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - GPL-3.0-only
+- repo: alpine_edge
+  subrepo: testing
+  srcname: ffsend
+  binname: ffsend-zsh-completion
+  visiblename: ffsend-zsh-completion
+  version: 0.2.76
+  origversion: 0.2.76-r4
+  status: outdated
+  summary: Zsh completions for ffsend
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: ffsend
+  binname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: 0.2.77-1
+  status: newest
+  summary: Easily and securely share files from the command line. A Send client.
+  maintainers:
+    - bbj@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: ffsend-bin
+  binname: ffsend-bin
+  visiblename: ffsend-bin
+  version: 0.2.77
+  origversion: 0.2.77-2
+  status: newest
+  summary: Easily and securely share files from the command line. A Send client.
+  maintainers:
+    - bbj@aur
+    - axionl@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: ffsend-git
+  binname: ffsend-git
+  visiblename: ffsend-git
+  version: 0.2.74.ccd489ce
+  origversion: 0.2.74.ccd489ce-1
+  status: rolling
+  summary: Easily and securely share files from the command line. A Send client.
+  maintainers:
+    - timvisee@aur
+  licenses:
+    - GPL3
+- repo: crates_io
+  srcname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: |-
+    Easily and securely share files from the command line.
+    A fully featured Send client.
+- repo: gentoo_ovl_guru
+  srcname: net-misc/ffsend
+  visiblename: net-misc/ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Easily and securely share files from the command line
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - net-misc
+- repo: gentoo_ovl_guru
+  srcname: net-misc/ffsend
+  visiblename: net-misc/ffsend
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Easily and securely share files from the command line
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - net-misc
+- repo: homebrew
+  srcname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Fully featured Firefox Send client
+- repo: liguros_stable
+  srcname: net-misc/ffsend
+  visiblename: net-misc/ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Easily and securely share files from the command line
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - net-misc
+- repo: liguros_stable
+  srcname: net-misc/ffsend
+  visiblename: net-misc/ffsend
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Easily and securely share files from the command line
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - net-misc
+- repo: liguros_develop
+  srcname: net-misc/ffsend
+  visiblename: net-misc/ffsend
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Easily and securely share files from the command line
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - net-misc
+- repo: liguros_develop
+  srcname: net-misc/ffsend
+  visiblename: net-misc/ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Easily and securely share files from the command line
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - net-misc
+- repo: macports
+  srcname: net/ffsend
+  binname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Easily and securely share files from the command line. A fully featured Firefox Send client.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - GPL-3+
+  categories:
+    - net
+- repo: nix_stable_24_05
+  srcname: ffsend
+  visiblename: ffsend
+  version: 0.2.76
+  origversion: null
+  status: outdated
+  summary: Easily and securely share files from the command line. A fully featured Firefox Send client
+  maintainers:
+    - lily@sb.org
+    - eduardo@eduardoquiros.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: ffsend
+  visiblename: ffsend
+  version: 0.2.76
+  origversion: null
+  status: outdated
+  summary: Easily and securely share files from the command line. A fully featured Firefox Send client
+  maintainers:
+    - eduardo@eduardoquiros.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: ffsend
+  visiblename: ffsend
+  version: 0.2.76
+  origversion: null
+  status: outdated
+  summary: Easily and securely share files from the command line. A fully featured Firefox Send client
+  maintainers:
+    - eduardo@eduardoquiros.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Easily and securely share files from the command line. A fully featured Firefox Send client
+  maintainers:
+    - eduardo@eduardoquiros.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Easily and securely share files from the command line. A fully featured Firefox Send client
+  maintainers:
+    - eduardo@eduardoquiros.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_unstable
+  srcname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Easily and securely share files from the command line. A fully featured Firefox Send client
+  maintainers:
+    - eduardo@eduardoquiros.com
+  licenses:
+    - GPL-3.0-only
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: rust-ffsend
+  visiblename: rust-ffsend
+  version: 0.2.58
+  origversion: 0.2.58-2
+  status: outdated
+  summary: Easily and securely share files from the command line
+  maintainers:
+    - nobodydead@gmail.com
+  licenses:
+    - GPLv3
+  categories:
+    - Unspecified
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: rust-ffsend
+  visiblename: rust-ffsend
+  version: 0.2.58
+  origversion: 0.2.58-2
+  status: outdated
+  summary: Easily and securely share files from the command line
+  maintainers:
+    - nobodydead@gmail.com
+  licenses:
+    - GPLv3
+  categories:
+    - Unspecified
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: rust-ffsend
+  visiblename: rust-ffsend
+  version: 0.2.58
+  origversion: 0.2.58-2
+  status: outdated
+  summary: Easily and securely share files from the command line
+  maintainers:
+    - nobodydead@gmail.com
+  licenses:
+    - GPLv3
+  categories:
+    - Unspecified
+- repo: pacstall
+  srcname: ffsend-bin
+  binname: ffsend-bin
+  visiblename: ffsend-bin
+  version: 0.2.77
+  origversion: 0.2.77-1
+  status: newest
+  summary: Easily and securely share files from the command line
+- repo: scoop
+  subrepo: main
+  binname: ffsend
+  visiblename: ffsend
+  version: 0.2.76
+  origversion: null
+  status: outdated
+  licenses:
+    - GPL-3.0-only
+- repo: termux
+  srcname: ffsend
+  binname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: A fully featured Firefox Send client
+  maintainers:
+    - termux@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: ffsend
+  binname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: 0.2.77_2
+  status: newest
+  summary: Fully featured Firefox Send client
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: wikidata
+  srcname: Q107061993
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Firefox Send client
+  licenses:
+    - GNU General Public License, version 3.0
