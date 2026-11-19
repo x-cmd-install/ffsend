@@ -1,3 +1,11 @@
+- repo: gnuguix
+  srcname: ffsend
+  binname: ffsend
+  visiblename: ffsend
+  version: 0.2.77
+  origversion: null
+  status: newest
+  summary: Easily and securely share files from the command line
 - repo: alpine_edge
   subrepo: testing
   srcname: ffsend
@@ -136,14 +144,6 @@
     - Unicode-DFS-2016
   categories:
     - net-misc
-- repo: gnuguix
-  srcname: ffsend
-  binname: ffsend
-  visiblename: ffsend
-  version: 0.2.77
-  origversion: null
-  status: newest
-  summary: Easily and securely share files from the command line
 - repo: homebrew
   srcname: ffsend
   visiblename: ffsend
